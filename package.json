@@ -1,0 +1,16 @@
+{
+  "name": "pacage",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "tsc && node ./dist/test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "nodemon": "^3.1.7",
+    "ts-node": "^10.9.2"
+  }
+}
